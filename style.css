@@ -1,0 +1,59 @@
+/*stylesheet for the recipes*/
+*{
+	background-color:pas;
+}
+/*color pas seems to allow the padded text to carry the page color.*/
+
+h1{
+	font-family: georgia, ;
+	font-size: 70px;
+	color: navy;
+	text-align: center;
+}
+
+h2{
+	font-family: georgia;
+	color:navy;
+	font-size: 50px;
+}
+
+h3{
+	font-style: italic;
+	color:rosybrown ;
+	font-size: 40px;
+}
+
+p{
+	font-size: 25px;
+}
+
+li{
+	font-size: 25px;
+	font-size: comic-sans;
+}
+
+div{
+	font-size: 23px;
+	text-align: right;
+
+}
+
+.buttonone{
+	background-color: blanchedalmond;
+    border: none;
+  	color: white;
+  	padding: 20px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	margin: 4px 2px;
+  	border-radius: 12px;
+  	color:black;
+  }
+
+  a{
+  	text-decoration: none;
+  }
+
+ 
